@@ -1,0 +1,10 @@
+{
+  "name": "Inlowerapp",
+  "version": "1.0.0",
+  "description": "dating     apps",
+  "main": "inex.js",
+  "repository": "https://facebook.com/appinlowers",
+  "author": "Maria del Pilar Rodriguez Castillejo",
+  "license": "MIT",
+  "private": false
+}
